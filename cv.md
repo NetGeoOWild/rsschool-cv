@@ -8,6 +8,14 @@
 ## My goals and desires:
 At the moment I work in the IT field, layout department, I study javascript and topics related to front-end development. I signed up for this course to gain knowledge in the front-end field and move to the next level. I like it and I really want to master the programming language and learn how to work with the react framework.
 
+## Skills:
+  1. HTML
+  2. CSS
+  3. Core/JS
+  4. GitHub / Basic
+  5. VS Code
+  6. Photoshop, Figma
+
 ## Code Wars sample code
 **Task:** A Narcissistic Number is a positive number which is the sum of its own digits, each raised to the power of the number of digits in a given base. In this Kata, we will restrict ourselves to decimal (base 10).
 
