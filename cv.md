@@ -45,4 +45,4 @@ Education in the field of IT front-end development began independently, video tu
 A - Basic Ownership (Basic User)
 
 ## Resume
-**I want to gain knowledge so that I can move on.**
+**I want to gain knowledge to move on. And develop faster.**
