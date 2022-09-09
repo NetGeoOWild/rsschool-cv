@@ -52,5 +52,3 @@ Education in the field of IT front-end development began independently, video tu
 ## English Knowledge
 A - Basic Ownership (Basic User)
 
-## Resume
-**I want to gain knowledge to move on. And develop faster.**
