@@ -1,5 +1,6 @@
 # Georgiy Bashirov
 ![Avatar](https://avatars.githubusercontent.com/u/93530714?v=4)
+
 ---
 ### Future Frontend Developer
 ---
