@@ -1,1 +1,1 @@
-https://NetGeoOWild.github.io/rsschool-cv/cv
+https://NetGeoOWild.github.io/rsschool-cv/
