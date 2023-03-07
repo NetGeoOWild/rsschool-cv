@@ -1,0 +1,1 @@
+https://NetGeoOWild.github.io/rsschool-cv/cv
